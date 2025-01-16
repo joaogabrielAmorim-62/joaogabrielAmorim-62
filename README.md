@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @joaogabrielAmorim-62
 - 👀 I’m interested in learn Java
-- 🌱 I’m currently learning books
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning BackEnd
+- ⚡ Fun fact: I´m nerd :)
 
 <!---
 joaogabrielAmorim-62/joaogabrielAmorim-62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
